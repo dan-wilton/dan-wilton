@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Wilton!</h1>
 <h3 align="center">A Principal SWE @ [BJSS](https://bjss.com/) 👨‍💻, specialising in Python 🐍 and People-Driven Development! 🚀</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dan-wilton&label=Profile%20views&color=0e75b6&style=flat" alt="dan-wilton" /> </p>
-
 - 🔭 I’m currently working on reducing global emissions in the Aviation industry, [producing world-first high-resolution weather APIs!](https://www.metoffice.gov.uk/)
   
 - 🕵️‍♂️ My projects are often in private repos or on other platforms due to the sensitivity of my work, a lot of my GitHub activity is down to my spare time!
@@ -14,6 +12,9 @@
 - 📫 How to reach me **daniel.wilton.dw@outlook.com**
 
 - ⚡ Fun fact **I love motorbikes 🏍️**
+
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dan-wilton&label=Profile%20views&color=0e75b6&style=flat" alt="dan-wilton" /> </p>
 
 <br>
 <h3 align="left">Connect with me:</h3>

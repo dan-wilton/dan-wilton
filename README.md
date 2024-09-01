@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Wilton!</h1>
+<h1 align="center">Hi, I'm Daniel Wilton! 👋</h1>
 <h3 align="center">A Principal SWE @ <a href="https://bjss.com/">BJSS</a> 👨‍💻, specialising in Python 🐍 and People-Driven Development! 🚀</h3>
 
 - 🔭 I’m currently working on reducing global emissions in the Aviation industry, [producing world-first high-resolution weather APIs!](https://www.metoffice.gov.uk/)

@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Daniel Wilton! 👋</h1>
-<h3 align="center">A Senior SWE @ <a href="https://kraken.tech/">Kraken Technologies</a>, party of the [Octopus Energy Group](https://octopusenergy.group) 🐙👨‍💻, specialising in Python 🐍 and People-Driven Development! 🚀</h3>
+<h3 align="center">A Senior SWE @ <a href="https://kraken.tech/">Kraken Technologies</a>, part of the <a href="https://octopusenergy.group">Octopus Energy Group</a> 🐙👨‍💻, specialising in Python 🐍 and People-Driven Development! 🚀</h3>
 
 - 🔭 I’ve recently worked with the [Met Office](https://www.metoffice.gov.uk/); helping to reduce global emissions in the Aviation industry, producing world-first high-resolution weather data APIs... and the world's first Quantitative Volcanic Ash forecasting API! 🌋
   

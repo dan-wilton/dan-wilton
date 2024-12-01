@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Daniel Wilton! 👋</h1>
-<h3 align="center">A Principal SWE @ <a href="https://bjss.com/">BJSS</a> 👨‍💻, specialising in Python 🐍 and People-Driven Development! 🚀</h3>
+<h3 align="center">A Senior SWE @ <a href="https://kraken.tech/">Kraken Technologies</a>, party of the [Octopus Energy Group](https://octopusenergy.group) 🐙👨‍💻, specialising in Python 🐍 and People-Driven Development! 🚀</h3>
 
-- 🔭 I’m currently working on reducing global emissions in the Aviation industry, [producing world-first high-resolution weather APIs!](https://www.metoffice.gov.uk/)
+- 🔭 I’ve recently worked with the [Met Office](https://www.metoffice.gov.uk/); helping to reduce global emissions in the Aviation industry, producing world-first high-resolution weather data APIs... and the world's first Quantitative Volcanic Ash forecasting API! 🌋
   
 - 🕵️‍♂️ My projects are often in private repos or on other platforms due to the sensitivity of my work, a lot of my GitHub activity is down to my spare time!
 

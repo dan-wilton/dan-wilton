@@ -1,10 +1,11 @@
 <h1 align="center">
-    Hi, I'm Daniel Wilton! 👋
     <img
         src="https://komarev.com/ghpvc/?username=dan-wilton&label=Profile%20views&color=0e75b6&style=flat"
         alt="dan-wilton"
         align="right"
+        style="position: absolute; right: 2em"
     />
+    Hi, I'm Daniel Wilton! 👋
 </h1>
 
 <h3 align="center">

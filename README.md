@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-    A Senior SWE @ <a href="https://kraken.tech/">Kraken Technologies</a> (part of the
+    A Senior SWE @ <a href="https://kraken.tech/">Kraken</a> (part of the
     <a href="https://octopusenergy.group">Octopus Energy Group🐙</a>), specialising in Python 🐍 and
     People-Driven Development! 🚀
 </h3>
